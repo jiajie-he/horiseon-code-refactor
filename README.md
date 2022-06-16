@@ -6,7 +6,7 @@ Refactoring existing code to meet the acceptance criteria.
 
 ## Acceptance criteria
 
-'''
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
