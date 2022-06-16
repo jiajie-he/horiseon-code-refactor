@@ -26,3 +26,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+### Appearance
+
+![horiseon-demo](https://user-images.githubusercontent.com/105767623/174188101-966d1943-d336-4117-bbf9-17c2dff2ba16.png)
+
+### Deployed Application
+
+https://jiajie-he.github.io/horiseon-code-refactor/
