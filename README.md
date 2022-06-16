@@ -1,10 +1,17 @@
 # horiseon-code-refactor
 
-## On-the-job ticket/feature request challenge
+## On-the-job ticket
 
-Refactoring existing code to meet the acceptance criteria.
+### About
 
-## Acceptance criteria
+* I'm motivated by preparing for the workflow I'll experience as a professional web developer
+* Gained experience refactoring existing code to exceed my client's acceptance criteria
+  * Ensured all the links functioned properly
+  * Consolidated and organized the code
+  * Added comments to identify each section
+* Made Horiseon's site more accessible
+
+### Acceptance criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -19,4 +26,3 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
