@@ -1,8 +1,6 @@
 # horiseon-code-refactor
 
-## On-the-job ticket
-
-### About
+## About
 
 * I'm motivated by preparing for the workflow I'll experience as a professional web developer
 * Gained experience refactoring existing code to exceed my client's acceptance criteria
